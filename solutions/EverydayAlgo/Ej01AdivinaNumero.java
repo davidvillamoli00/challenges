@@ -8,6 +8,7 @@ import java.util.Scanner;
   // El programa termina cuando se acierta el número (además te dice en cuantos
   // intentos lo has acertado), si se llega al limite de intentos te muestra el
   // número que había generado.
+  // @author Davidvillamoli
   // ################################################################################
   // Análisis
   // Tenemos que generar un número aleatorio (función Aleatorio) del 1 al 100.
