@@ -1,0 +1,1 @@
+Este repositorio es creando con el fin de poder compartir mi reto de programar todo los días un poco, para mejorar la logica y explorar otros lenguajes. Espero que sea de ayuda para vosotros y puedan usarlo y mejorarlo, un saludo.
